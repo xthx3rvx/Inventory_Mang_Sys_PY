@@ -35,6 +35,7 @@ abc module for abstract base classes
 datetime module for order time stamping
 
 📋 Example Output
+
 Product Details:
 Product ID: 101, Name: Laptop, Price: 50000, Stock: 10
 Warranty Period: 24 months
